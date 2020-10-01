@@ -15,12 +15,6 @@ class String
   end
 
   def count_sentences
-    #self.split(/[.?!]+/).delete_if{|x|x==""}.count
     self.split(/[.?!]+/).count
-    binding.pry
   end
 end
-
-x = "This, well, is a sentence... This is too!! And so is this, I think? Woo..."
-x.count_sentences
-
