@@ -21,5 +21,5 @@ class String
   end
 end
 
-x = String.new
+x = String.new()
 
