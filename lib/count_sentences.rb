@@ -22,6 +22,6 @@ class String
   end
 end
 
-
-count_sentences
+z = 'hi'
+z.count_sentences
 
