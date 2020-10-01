@@ -18,5 +18,6 @@ class String
     #self.split(/[.?!]+/).delete_if{|x|x==""}.count
     binding.pry
   end
-
 end
+
+
