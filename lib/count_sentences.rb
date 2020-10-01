@@ -21,4 +21,6 @@ class String
   end
 end
 
-x = 
+x = "This, well, is a sentence. This is too!! And so is this, I think? Woo..."
+x.count_sentences
+
