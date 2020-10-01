@@ -21,5 +21,5 @@ class String
   end
 end
 
-x = String.new()
+x = String.new("This, well, is a sentence. This is too!! And so is this, I think? Woo...")
 
