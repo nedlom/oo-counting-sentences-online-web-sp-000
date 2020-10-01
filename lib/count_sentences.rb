@@ -23,5 +23,5 @@ class String
 end
 
 
-x.count_sentences
+count_sentences
 
